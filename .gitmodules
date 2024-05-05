@@ -1,0 +1,3 @@
+[submodule "4_KM_Project/external/json"]
+	path = 4_KM_Project/external/json
+	url = https://github.com/nlohmann/json.git
